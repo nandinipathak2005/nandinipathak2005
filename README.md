@@ -15,9 +15,7 @@ Whether it's developing apps to enhance everyday lives or leveraging machine lea
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 
 </div>
-<div>
-  ![Snake animation](https://github.com/nandinipathak2005/nandinipathak2005/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 <!--
 **nandinipathak2005/nandinipathak2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
