@@ -17,8 +17,13 @@ Whether it's developing apps to enhance everyday lives or leveraging machine lea
 </div>
 
 
-##Feeding
-![snake gif](https://github.com/nandinipathak2005/nandinipathak2005/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nandinipathak2005/nandinipathak2005/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <!--
 **nandinipathak2005/nandinipathak2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
