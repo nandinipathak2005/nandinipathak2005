@@ -18,7 +18,7 @@ Whether it's developing apps to enhance everyday lives or leveraging machine lea
 
 
 ##Feeding
-![Snake animation](https://raw.githubusercontent.com/nandinipathak2005/nandinipathak2005/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/nandinipathak2005/nandinipathak2005/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **nandinipathak2005/nandinipathak2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
