@@ -3,18 +3,16 @@ I'm Nandini, an aspiring software developer currently pursuing a B.Tech in Infor
 
 Whether it's developing apps to enhance everyday lives or leveraging machine learning to solve complex problems, I’m dedicated to creating impactful and practical solutions. Feel free to explore my work and connect with me!
 
-## 🌟 My GSSoC Achievements
-
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  
 </div>
-
 
 
 <div align="center">
